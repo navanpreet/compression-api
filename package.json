@@ -14,7 +14,7 @@
     "compression": "^1.7.4",
     "express": "^4.16.4",
     "formidable": "^1.2.1",
-    "jszip": "^3.2.1",
+    "jszip": "^3.7.0",
     "lodash": "^4.17.11",
     "mocha": "^6.1.4",
     "moment": "^2.24.0",
